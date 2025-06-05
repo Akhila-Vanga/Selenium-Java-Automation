@@ -42,17 +42,14 @@ public class SimpleEncryptDecrypt {
     }
 
     public static void main(String[] args) throws Exception {
-        // Step 1: Generate and print secret key (Run this once, save the key somewhere safe)
         String secretKey = generateKey();
         System.out.println("Secret Key (save this safely): " + secretKey);
 
-        // Step 2: Encrypt your DB password (Run this once after replacing your password)
-        String plainPassword = "Tester1";  // <-- Replace this with your actual DB password
+        String plainPassword = "Tester1";  // Replace this with  actual DB password
         SecretKey key = getKeyFromBase64String(secretKey);
         String encryptedPassword = encrypt(plainPassword, key);
         System.out.println("Encrypted Password (put this in config.properties): " + encryptedPassword);
 
-        // Step 3: Decrypt password to verify (Use this code at runtime)
         String decryptedPassword = decrypt(encryptedPassword, key);
         System.out.println("Decrypted Password (for verification): " + decryptedPassword);
     }
