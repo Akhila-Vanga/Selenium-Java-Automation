@@ -47,7 +47,7 @@ public class SimpleEncryptDecrypt {
         System.out.println("Secret Key (save this safely): " + secretKey);
 
         // Step 2: Encrypt your DB password (Run this once after replacing your password)
-        String plainPassword = "Akhi@7525";  // <-- Replace this with your actual DB password
+        String plainPassword = "Tester1";  // <-- Replace this with your actual DB password
         SecretKey key = getKeyFromBase64String(secretKey);
         String encryptedPassword = encrypt(plainPassword, key);
         System.out.println("Encrypted Password (put this in config.properties): " + encryptedPassword);
