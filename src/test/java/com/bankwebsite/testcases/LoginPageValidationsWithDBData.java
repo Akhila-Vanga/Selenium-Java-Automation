@@ -1,22 +1,19 @@
 
 /**
- * Automation Framework Summary:
- * 
+ * Automation Framework Summary: 
  * - Automates login functionality for the Guru99 Bank web application.
- * - Executes test cases by reading data from an Excel sheet (LoginTestData.xlsx).
- * - Validates login attempts and writes the test execution status back to the Excel sheet.
+ * - Executes test cases by reading data MYSQL Database.
  * - Generates detailed HTML Extent Reports for each test run.
  * - Captures and attaches screenshots for failed or unexpected outcomes.
 
  * Key Features:
- * 
- * -Data-Driven Testing: Dynamically reads login credentials from Excel using Apache POI.
+ * -Data-Driven Testing: Dynamically reads login credentials from MYSQL Database.
  * -Environment Configuration: Supports flexible environment targeting (QA, Dev, Prod) via TestNG XML parameters.
  * -Reusable Page Objects: Encapsulates UI interactions using Page Object Model for maintainable test logic.
  * -Advanced Reporting: Integrates ExtentReports for detailed, interactive HTML reports with step-wise logging.
  * -Screenshot Capture: Automatically captures and attaches screenshots on test failure for debugging.
- * -Result Logging: Writes pass/fail status directly back to the Excel test case sheet for traceability.
  * -TestNG Integration: Leverages TestNG for test execution, parallelism, and result aggregation.
+ * -Generates and sends email of test reports to configured recipients
  **/
 
 package com.bankwebsite.testcases;
