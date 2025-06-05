@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-05T15:45:41 MDT" name="Suite" finished-at="2025-06-05T15:46:20 MDT" duration-ms="39422">
+    <groups>
+    </groups>
+    <test started-at="2025-06-05T15:45:41 MDT" name="Test" finished-at="2025-06-05T15:46:20 MDT" duration-ms="39422">
+      <class name="com.bankwebsite.testcases.LoginPageValidationsWithDBData">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:45:41 MDT" name="startReport" finished-at="2025-06-05T15:45:41 MDT" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:45:41 MDT" name="setup" finished-at="2025-06-05T15:45:44 MDT" duration-ms="3596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginWithMultipleCredentials(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:45:45 MDT" name="testLoginWithMultipleCredentials" data-provider="loginData" finished-at="2025-06-05T15:45:54 MDT" duration-ms="8822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr624245]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EgyqAna]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@708f018e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithMultipleCredentials -->
+        <test-method signature="testLoginWithMultipleCredentials(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:45:54 MDT" name="testLoginWithMultipleCredentials" data-provider="loginData" finished-at="2025-06-05T15:46:00 MDT" duration-ms="6102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr624245]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Egyq]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@708f018e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithMultipleCredentials -->
+        <test-method signature="testLoginWithMultipleCredentials(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:46:00 MDT" name="testLoginWithMultipleCredentials" data-provider="loginData" finished-at="2025-06-05T15:46:07 MDT" duration-ms="6647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr6242]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EgyqAna]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@708f018e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithMultipleCredentials -->
+        <test-method signature="testLoginWithMultipleCredentials(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:46:07 MDT" name="testLoginWithMultipleCredentials" data-provider="loginData" finished-at="2025-06-05T15:46:14 MDT" duration-ms="7059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr624]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Egyq]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@708f018e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithMultipleCredentials -->
+        <test-method signature="testLoginWithMultipleCredentials(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:46:14 MDT" name="testLoginWithMultipleCredentials" data-provider="loginData" finished-at="2025-06-05T15:46:20 MDT" duration-ms="6128" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@708f018e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithMultipleCredentials -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:46:20 MDT" name="quitBrowser" finished-at="2025-06-05T15:46:20 MDT" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankwebsite.testcases.LoginPageValidationsWithDBData@5ccbeb64]" started-at="2025-06-05T15:46:20 MDT" name="tearDown" finished-at="2025-06-05T15:46:27 MDT" duration-ms="7049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bankwebsite.testcases.LoginPageValidationsWithDBData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

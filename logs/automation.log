@@ -1,0 +1,50 @@
+2025-06-04 20:26:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-04 20:26:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-04 20:26:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-04 20:43:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-04 20:43:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-04 20:43:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-04 20:54:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-04 20:54:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-04 20:54:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-04 23:09:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-04 23:09:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-04 23:09:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-04 23:24:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-04 23:24:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-04 23:24:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-05 15:36:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-05 15:36:43 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-05 15:36:43 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-05 15:39:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-05 15:39:24 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-05 15:39:24 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-05 15:40:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-05 15:40:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-05 15:40:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-05 15:43:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-05 15:43:07 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-05 15:43:07 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
+2025-06-05 15:45:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse\Workspace\Guru99BankWebsiteAutomation\src\test\resources\testng.xml
+
+2025-06-05 15:45:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.68 (resolved driver for Chrome 137)
+2025-06-05 15:45:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\137.0.7151.68\chromedriver.exe
