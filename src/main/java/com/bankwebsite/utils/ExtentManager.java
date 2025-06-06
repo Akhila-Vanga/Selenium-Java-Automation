@@ -22,7 +22,7 @@ public class ExtentManager {
 	public static ExtentReports getInstance() {
 		if (extent == null) {
 			String reportPath = System.getProperty("user.dir") + "/" + ConfigReader.get("report.path");
-			ExtentSparkReporter htmlReporter = new ExtentSparkReporter(reportPath); // <-- fixed this line
+			ExtentSparkReporter htmlReporter = new ExtentSparkReporter(reportPath); 
 			extent = new ExtentReports();
 			extent.attachReporter(htmlReporter);
 			extent.setSystemInfo("Framework", "Selenium TestNG");
