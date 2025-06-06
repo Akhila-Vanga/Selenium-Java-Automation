@@ -43,14 +43,14 @@ public class SimpleEncryptDecrypt {
 
     public static void main(String[] args) throws Exception {
         String secretKey = generateKey();
-        System.out.println("Secret Key (save this safely): " + secretKey);
+        System.out.println(secretKey);
 
         String plainPassword = "Tester1";  // Replace this with  actual DB password
         SecretKey key = getKeyFromBase64String(secretKey);
         String encryptedPassword = encrypt(plainPassword, key);
-        System.out.println("Encrypted Password (put this in config.properties): " + encryptedPassword);
+        System.out.println(encryptedPassword);
 
         String decryptedPassword = decrypt(encryptedPassword, key);
-        System.out.println("Decrypted Password (for verification): " + decryptedPassword);
+        System.out.println(decryptedPassword);
     }
 }
